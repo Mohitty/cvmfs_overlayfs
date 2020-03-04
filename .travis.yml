@@ -1,5 +1,5 @@
 language: go
-env: GO111MODULE=on GOFLAGS='-mod vendor'
+env: GO111MODULE=on
 go:
   - 1.13.x
 git:
